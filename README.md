@@ -5,4 +5,4 @@
 - Preprocessed image data, including normalization and augmentation, to enhance model generalization and performance.  
 - Designed and trained a multi-layer CNN architecture, incorporating techniques such as dropout and batch normalization to prevent overfitting and stabilize training.  
 - Evaluated model performance using accuracy and loss metrics.
-Code:https://www.kaggle.com/code/abdelrahmanhesham101/cifar10-with-cnn
+- Code:https://www.kaggle.com/code/abdelrahmanhesham101/cifar10-with-cnn
